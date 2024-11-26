@@ -2,10 +2,15 @@
 
 ### CEP de Úbeda
 
-## Diciembre 2024 - Enero 2025
+## Noviembre 2024 - Enero 2025
 
 [![](./images/portada_curso_peque.png)](./images/portada_curso_grande.png)
 
+## [https://bit.ly/PenCo](https://bit.ly/PenCo)
+
+![](./images/qr_penco_peque.png)
+
+[QR](./images/bit.ly_PenCo.png)
 
 ![](./images/Licencia_CC_peque.png) Licencia CC by  @javacasm 
 
