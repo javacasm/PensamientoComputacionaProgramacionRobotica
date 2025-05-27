@@ -4,7 +4,7 @@
 
 [![](./images/portada_curso_peque.png)](./images/portada_curso_grande.png)
 
-## [https://bit.ly/PenCo](https://bit.ly/PenCo)
+## [[https://bit.ly/PenCo](https://bit.ly/PenCompu)](https://bit.ly/PenCompu)
 
 ![](./images/qr_penco_peque.png)
 
