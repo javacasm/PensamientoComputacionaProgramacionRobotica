@@ -49,9 +49,6 @@ El curso  "Pensamiento Computacional: Diseñando Actividades con Programación y
 
 Este curso combina habilidades técnicas y pedagógicas, aplicando el pensamiento computacional a través de herramientas accesibles y actividades creativas que pueden integrarse en distintas áreas de aprendizaje.
 
-### Sesiones
-
-26 de Noviembre 2024, 9, 14, 21 y 28 de enero 2025
 
 ## Temario
 
