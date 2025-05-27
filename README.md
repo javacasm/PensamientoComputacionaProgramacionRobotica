@@ -1,8 +1,6 @@
-# [Curso "Pensamiento computacional, diseñando actividades con programación y robótica (252320GE009)"](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/252320GE009/)
+# Curso "Pensamiento computacional, diseñando actividades con programación y robótica
 
-### CEP de Úbeda
-
-## Noviembre 2024 - Enero 2025
+## Mayo 2025
 
 [![](./images/portada_curso_peque.png)](./images/portada_curso_grande.png)
 
