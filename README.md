@@ -42,7 +42,7 @@ El curso  "Robótica I - Introducción al pensamiento computacional, la programa
    - Programación con micro:bit en MakeCode: uso de la pantalla LED, sensores y botones.
    - Creación de proyectos de medición y control, como sensores de temperatura o luz.
 
-1. Programación y robótcia con [otros kits de robótica](OtrosProyectos.md)
+1. Programación y robótica con [otros kits](OtrosProyectos.md)
     * [Escornabot](escornabot.md)
     * Programación visual con Arduino
 	    * [ArduinoBlocks](arduinoBlocks.md)
