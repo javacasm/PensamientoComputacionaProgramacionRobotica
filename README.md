@@ -1,20 +1,20 @@
-# Curso "Pensamiento computacional, diseñando actividades con programación y robótica
+# Robótica I  - Introducción al pensamiento computacional, la programación y la robótica  ([261811GE012](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/261811GE012/))
 
-## Mayo 2025
+## Curso del CEP de Granada
+
+Septiembre 2025
 
 [![](./images/portada_curso_peque.png)](./images/portada_curso_grande.png)
 
-## [https://bit.ly/PenCompu](https://bit.ly/PenCompu)
+## [https://n9.cl/2drvb](https://n9.cl/2drvb)
 
-![](./images/qr_penco_peque.png)
-
-[QR](./images/bit.ly_PenCo.png)
+![](./images/qr_url.png)
 
 ![](./images/Licencia_CC_peque.png) Licencia CC by  @javacasm 
 
 ### Introducción
 
-El curso  "Pensamiento Computacional: Diseñando Actividades con Programación y Robótica", está orientado a estudiantes y docentes de educación primaria y secundaria. Se ha diseñado para introducir a los estudiantes en el pensamiento computacional y fomentar habilidades de resolución de problemas, creatividad y colaboración, utilizando plataformas accesibles como Code.org, Scratch, Makey-Makey y micro:bit
+El curso  "Robótica I - Introducción al pensamiento computacional, la programación y la robótica", está orientado a estudiantes y docentes de educación primaria y secundaria. Se ha diseñado para introducir a los estudiantes en el pensamiento computacional y fomentar habilidades de resolución de problemas, creatividad y colaboración, utilizando plataformas accesibles como Code.org, Scratch, Makey-Makey y micro:bit
 
 
 #### **Objetivos del Curso:**
@@ -42,10 +42,15 @@ El curso  "Pensamiento Computacional: Diseñando Actividades con Programación y
    - Programación con micro:bit en MakeCode: uso de la pantalla LED, sensores y botones.
    - Creación de proyectos de medición y control, como sensores de temperatura o luz.
 
-4. **Diseño de Actividades Educativas con Programación y Robótica**
-   - Desarrollo de actividades interactivas para reforzar conceptos de matemáticas, ciencias y arte.
-   - Creación de proyectos didácticos con Makey-Makey y micro:bit para diversas asignaturas.
-   - Documentación y presentación de proyectos educativos; retroalimentación y evaluación.
+1. Programación y robótcia con [otros kits de robótica](OtrosProyectos.md)
+    * [Escornabot](escornabot.md)
+    * Programación visual con Arduino
+	    * [ArduinoBlocks](arduinoBlocks.md)
+	    * [mBlock](mBlock.md)
+	    * [Echidna](Echidna.md)
+    * [Otto](otto_DIY.md)
+    * [mClon](mClon.md)
+    * [Edison](edison.md)
 
 Este curso combina habilidades técnicas y pedagógicas, aplicando el pensamiento computacional a través de herramientas accesibles y actividades creativas que pueden integrarse en distintas áreas de aprendizaje.
 
@@ -57,6 +62,7 @@ Este curso combina habilidades técnicas y pedagógicas, aplicando el pensamient
 3. [Programando con bloques: Scratch](./scratch/3.0.Scratch3.0.md)
 4. [Robótica en educación](./scratch/8.1.0.RoboticaEducacion.md)
 5. [Robótica con micro:bit](./microbit/0.Introduccion.md)
+6. [Otros kits de robótica](OtrosProyectos.md)
 ## Herramientas
 
 [Pensamiento computacional desconectado](https://csunplugged.org/es/)
