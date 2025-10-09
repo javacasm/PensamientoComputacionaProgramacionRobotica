@@ -1,8 +1,8 @@
-# Robótica I  - Introducción al pensamiento computacional, la programación y la robótica  ([261811GE012](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/261811GE012/))
+#  ROBÓTICA NIVEL I EN EL AULA DEL FUTURO  ([261410GE005](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/261410GE005/))
 
-## Curso del CEP de Granada
+## Curso del CEP de Priego-Montilla
 
-Septiembre 2025
+Octubre 2025
 
 [![](./images/portada_curso_peque.png)](./images/portada_curso_grande.png)
 
@@ -14,7 +14,7 @@ Septiembre 2025
 
 ### Introducción
 
-El curso  "Robótica I - Introducción al pensamiento computacional, la programación y la robótica", está orientado a estudiantes y docentes de educación primaria y secundaria. Se ha diseñado para introducir a los estudiantes en el pensamiento computacional y fomentar habilidades de resolución de problemas, creatividad y colaboración, utilizando plataformas accesibles como Code.org, Scratch, Makey-Makey y micro:bit
+El curso  "Robótica I", está orientado a estudiantes y docentes de educación primaria y secundaria. Se ha diseñado para introducir a los estudiantes en el pensamiento computacional y fomentar habilidades de resolución de problemas, creatividad y colaboración, utilizando plataformas accesibles como Code.org, Scratch, Makey-Makey y micro:bit
 
 
 #### **Objetivos del Curso:**
